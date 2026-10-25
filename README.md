@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 BS Software Engineering graduate | 💻 Full-Stack Web Developer specializing in the MERN stack & Next.js
-🚀 I build scalable, user-focused web applications — from REST APIs to polished front-end experiences
+🎓 BS Software Engineering graduate | 💻 Full-Stack Web Developer specializing in the MERN stack & Next.js\
+🚀 I build scalable, user-focused web applications — from REST APIs to polished front-end experiences\
 🔍 Currently open to **Full-Stack / MERN Developer** roles where I can contribute to real-world products and keep growing as an engineer
 
 📫 Let's connect — always happy to talk tech, collaborate, or discuss opportunities.
